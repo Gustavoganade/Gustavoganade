@@ -1,16 +1,14 @@
-## Hi there 👋
+### Boas vindas ao Meu Perfil
 
-<!--
-**Gustavoganade/Gustavoganade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Meu nome é Gustavo Ganade
 
-Here are some ideas to get you started:
+- Estou Estudando Na Alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou Evoluido Muito
+
+  ### Voce entra em contade comigo 📫
+
+  Ganadegustavo@gmail.com
+
+![](https://media1.tenor.com/m/8UntVSgyu6QAAAAC/gojo-satoru-satoru-gojo.gif)
+  
