@@ -2,13 +2,13 @@
 
 - Meu nome é Gustavo Ganade
 
-- Estou Estudando Na Alura
+- Estou Estudando No Altina
 
 - Estou Evoluido Muito
 
-  ### Voce entra em contade comigo 📫
+  ### Voce entra em contato comigo:
 
-  Ganadegustavo@gmail.com
+  (11) 95637-6859
 
-![](https://media1.tenor.com/m/8UntVSgyu6QAAAAC/gojo-satoru-satoru-gojo.gif)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fgif--592082682243205233%2F&psig=AOvVaw0R-nV4kNvgXeOtvNjDbqBM&ust=1755129481395000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCcnIe9ho8DFQAAAAAdAAAAABAj)
   
